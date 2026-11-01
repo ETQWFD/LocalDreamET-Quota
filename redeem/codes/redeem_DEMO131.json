@@ -1,1 +1,1 @@
-{"code":"DEMO131","status":"unused","effect":{"type":"quota","value":700}}
+{"code":"DEMO131","status":"used","effect":{"type":"quota","value":700},"used_by":"b131","used_ts":1793514521000}
