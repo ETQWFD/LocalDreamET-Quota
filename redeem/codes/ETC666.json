@@ -1,1 +1,1 @@
-{"code": "ETC666", "type": "quota", "amount": 1000, "used": false, "ts": 1793623000000}
+{"status":"unused","reusable":true,"effect":{"type":"quota","value":12800},"note":"群成员奖励卡密 ETC666，可重复使用，每次到账 12800 额度"}
